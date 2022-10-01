@@ -18,8 +18,8 @@
 
 - ⚡ Fun fact **i love anime || manga🧟‍♀️. Also i love Batman🦇**
 
-<div></div><br>
-<h3 align="left">Connect with me:</h3>
+<div><p align="left"> <a href="https://twitter.com/itscodewithdev" target="blank"><img src="https://img.shields.io/twitter/follow/itscodewithdev?logo=twitter&style=for-the-badge" alt="itscodewithdev" /></a> </p></div><br>
+<h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://twitter.com/itscodewithdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itscodewithdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devesh mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh mehra" height="30" width="40" /></a>
