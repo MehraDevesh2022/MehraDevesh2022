@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.canva.com/design/DAE5LtmcpFs/RPNJnDDsvzHej6V9r1Sqbg/view?utm_content=DAE5LtmcpFs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)]
+[![MasterHead](./gif/me.gif)]
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4F01EA&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+fullstack+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](https://www.linkedin.com/in/devesh-mehra-489a1922a/)
 
 
