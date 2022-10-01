@@ -16,6 +16,8 @@
 
 - 📫 You can reach me at **mehra.devesh2022@gmail.com**
 
+- 👯 I’m looking to collaborate with **opensource**
+
 - ⚡ Fun fact **i love anime || manga🧟‍♀️. Also i love Batman🦇**
 
 <div><p align="left"> <a href="https://twitter.com/itscodewithdev" target="blank"><img src="https://img.shields.io/twitter/follow/itscodewithdev?logo=twitter&style=for-the-badge" alt="itscodewithdev" /></a> </p></div><br>
