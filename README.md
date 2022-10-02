@@ -41,5 +41,4 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/96515074/193447073-42275ccd-ddac-4713-bad6-2c4f18c7ee64.png)">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
