@@ -41,5 +41,5 @@
 
 
 
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/96515074/193447073-42275ccd-ddac-4713-bad6-2c4f18c7ee64.png)">
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-18657810&psig=AOvVaw3piCEjkDwxBzlKBr1JDWEx&ust=1664788266171000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNidttuZwfoCFQAAAAAdAAAAABAE">
