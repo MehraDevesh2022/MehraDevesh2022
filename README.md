@@ -39,18 +39,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mehradevesh2022&" alt="mehradevesh2022" /></p><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mehradevesh2022&show_icons=true&locale=en" alt="mehradevesh2022" /></p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<p align=center>
-  <div align=center>
-    
-    <a href="https://github.com/yogesh2k21/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=yogesh2k21&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> <br>
-</p>
+
 
 
 
