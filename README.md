@@ -1,7 +1,7 @@
 
 ![MasterHead](./gif/me.gif)<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4F01EA&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+fullstack+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](https://www.linkedin.com/in/devesh-mehra-489a1922a/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4F01EA&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+fullstack+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](https://www.linkedin.com/in/iam-devesh//)
 
 
 <h1 align="center">Hi 👋, I'm Devesh Mehra</h1>
@@ -29,7 +29,7 @@
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
 <a href="https://twitter.com/itscodewithdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itscodewithdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devesh mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh mehra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iam-devesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh mehra" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_nightbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_nightbot" height="30" width="40" /></a>
 <a href="https://hashnode.com/@itscodewithdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@itscodewithdev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mehra_devesh2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehra_devesh2022" height="30" width="40" /></a>
