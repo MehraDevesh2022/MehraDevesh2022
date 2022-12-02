@@ -41,7 +41,7 @@
 
 <br>
 [![@itscodewithdev Holopin board](https://holopin.me/itscodewithdev)](https://holopin.io/@itscodewithdev)
-<br>
+
 [![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934)
 
 
