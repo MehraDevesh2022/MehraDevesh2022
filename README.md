@@ -39,7 +39,8 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mehradevesh2022&" alt="mehradevesh2022" /></p><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mehradevesh2022&show_icons=true&locale=en" alt="mehradevesh2022" /></p>
 
-<div align ="center">[![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934)<div>
+<div><br><div>
+  [![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934/)
 
 
 [![@itscodewithdev Holopin board](https://holopin.me/itscodewithdev)](https://holopin.io/@itscodewithdev)
