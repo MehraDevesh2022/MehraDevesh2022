@@ -33,7 +33,7 @@
 <a href="https://instagram.com/iam_nightbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_nightbot" height="30" width="40" /></a>
 <a href="https://hashnode.com/@itscodewithdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@itscodewithdev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mehra_devesh2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehra_devesh2022" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itscodewith_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itscodewith_dev" height="30" width="40" /></a>
+<a href="https://leetcode.com/iam_DEv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itscodewith_dev" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/sNPkR3cQXf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sNPkR3cQXf" height="30" width="40" /></a>
 </p>
 
