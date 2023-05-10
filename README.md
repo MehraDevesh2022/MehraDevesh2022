@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="./gif/gif2.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_NzYIH5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🔭 I’m currently working on [Data Structures & Algorithms](https://github.com/MehraDevesh2022/DSA-L1-Fjp3-PepCoding)
 
