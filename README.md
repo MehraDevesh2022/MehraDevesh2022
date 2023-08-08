@@ -89,12 +89,10 @@
 
 
 ### ⚙️ &nbsp; Contribution Snake :
-
- <p align="center">
  ---
-  <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+ <p align="center">
 
-      <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation"> 
+  <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation"> 
   
 </p><br>  
 
