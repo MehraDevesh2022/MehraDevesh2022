@@ -91,7 +91,7 @@
 ### ⚙️Contribution-eating-Snake : 
 ---
 <p align="center">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehradevesh2022/mehradevesh2022/output/github-contribution-grid-snake-dark.svg">
+   ![snake gif](https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-contribution-grid-snake.gif)
 </p>
 <br>
 
