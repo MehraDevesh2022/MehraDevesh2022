@@ -88,11 +88,16 @@
 [![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934)
 
 
-### ⚙️ &nbsp;GitHub Trophies :
+### ⚙️ &nbsp; Contribution Snake :
 
-<img src="https://raw.githubusercontent.com/MehraDevesh2022/MehraDevesh2022/output/ocean.svg?color_snake=%2315F8EB&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9#gh-dark-mode-only" alt="Snake animation" width="800">
+ <p align="center">
+ ---
+  <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+
+      <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation"> 
   
-
+</p><br>  
 
 
              
+ 
