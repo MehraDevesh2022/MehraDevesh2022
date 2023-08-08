@@ -88,14 +88,11 @@
 [![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934)
 
 
-### ⚙️Contribution-eating-Snake : 
----
+### ⚙️ &nbsp;GitHub Trophies :
+
     <img src="https://github.com/cheehwatang/MehraDevesh2022/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
-<p align="center">
 
-</p>
-<br>
 
 
 
