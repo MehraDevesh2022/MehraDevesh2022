@@ -84,7 +84,7 @@
 &nbsp; <a href="https://www.linkedin.com/in/iam-devesh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
 &nbsp; <a href="mailto:mehra.devesh2022@gmail.com"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" alt="Email"/></a>
 &nbsp; <a href="https://t.me/ItsCodewithDEv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/telegram-app.png" alt="Telegram"/></a>
- &nbsp; <a href="https://api.whatsapp.com/send?phone=+918171280446"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png" alt="WhatsApp"/></a>
+ &nbsp; <a href="https://api.whatsapp.com/send?phone=8171280446"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png" alt="WhatsApp"/></a>
  &nbsp; <a href="https://discord.com/users/uchiha_itachi7387" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/discord.png"/></a>
 
 </p><br>
