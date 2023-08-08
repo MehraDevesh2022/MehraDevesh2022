@@ -9,6 +9,12 @@
   <p align = 'center'><b>A Software Developer, with good problem solving skills, passionate about Full-stack development, and technology and Open Source, currious to ennaging with  in Modern Technology, Actively involved in hackathons during college time.  Fun Fact about me, I used to listen lo-fi beats 🎵 during the time of coding!</b></p> <br>
 </div>
 
+      <p align="center">
+[![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934)
+[![Profile Visits](https://komarev.com/ghpvc/?username=MehraDevesh2022)](https://github.com/MehraDevesh2022)
+
+</p><br>                               
+
 ### ⚙️ &nbsp; About Me :
 ---
 ⚡  I earned my **B.Tech in Computer Science and Engineering** from **Uttarakhand Technical University**  Passout batch 2022 <br>
@@ -84,16 +90,12 @@
 <img height="172em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ItsCodewithDEv&count_private=true&theme=algolia&v=2" alt="Devesh's wakatime stats">
 </a>
 </p><br>
- 
-[![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934)
 
 
 ### ⚙️ &nbsp; Contribution Snake :
  ---
  <p align="center">
-
   <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation"> 
-  
 </p><br>  
 
 
