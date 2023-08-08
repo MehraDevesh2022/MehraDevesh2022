@@ -9,11 +9,16 @@
   <p align = 'center'><b>A Software Developer, with good problem solving skills, passionate about Full-stack development, and technology and Open Source, currious to ennaging with  in Modern Technology, Actively involved in hackathons during college time.  Fun Fact about me, I used to listen lo-fi beats 🎵 during the time of coding!</b></p> <br>
 </div>
 
-      <p align="center">
-[![wakatime](https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg)](https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934)
-[![Profile Visits](https://komarev.com/ghpvc/?username=MehraDevesh2022)](https://github.com/MehraDevesh2022)
-
-</p><br>                               
+<p align="center">
+  <a href="https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934">
+    <img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg" alt="Wakatime">
+  </a>
+  
+  <a href="https://github.com/MehraDevesh2022">
+    <img src="https://komarev.com/ghpvc/?username=MehraDevesh2022" alt="Profile Visits">
+  </a>
+</p>
+                           
 
 ### ⚙️ &nbsp; About Me :
 ---
@@ -96,8 +101,16 @@
  ---
  <p align="center">
   <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation"> 
-</p><br>  
+</p>  
 
 
-             
- 
+
+### ⚙️ &nbsp; Hacktoberfest PR Badges :
+---
+<p align="center">
+  
+[![An image of @itscodewithdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itscodewithdev)](https://holopin.io/@itscodewithdev)
+</p><br>
+
+
+---
