@@ -18,27 +18,32 @@
     <img src="https://komarev.com/ghpvc/?username=MehraDevesh2022" alt="Profile Visits">
   </a>
 </p>
-                           
 
 ### ⚙️ &nbsp; About Me :
+
 ---
-⚡  I earned my **B.Tech in Computer Science and Engineering** from **Uttarakhand Technical University**  Passout batch 2022 <br>
-⚡  Looking forward to have a successful professional career as a **Software Engineerr** <br>
-⚡  I'm currently surfing the web to improve my  **Development Experience!** **In short:beer:, I love to work on new technologies. :heart:** <br>
-⚡  I possess a strong aptitude for leadership roles and have successfully completed numerous projects as part of a team <br>
-⚡  Actively took part in various Open Source Programs like **GSSOC**, **SSOC**, and **Hacktoberfest**. <br>
-⚡  See my recent work using the **MERN STACK**: A **chat app** utilizing **websockets** [Chat-Mind](https://github.com/MehraDevesh2022/chat-mind) and an **e-commerce app** [Cricket Weapon](https://github.com/MehraDevesh2022/CricketWeapon-Store).
-⚡  I've published my tech-related blog posts on ***Hashnode**. You can explore them on my profile: [IamDEv.hashnode.dev](https://iam-dev.hashnode.dev/).<br>
-⚡   If you're in need of a skilled **Software Developer** and **Web Developer**, I'm available. **Hire Me ➡**.   [Portfolio](your_portfolio_link)  <br>
+
+⚡ I earned my **B.Tech in Computer Science and Engineering** from **Uttarakhand Technical University** Passout batch 2022 <br>
+⚡ Looking forward to have a successful professional career as a **Software Engineerr** <br>
+⚡ I'm currently surfing the web to improve my **Development Experience!** **In short:beer:, I love to work on new technologies. :heart:** <br>
+⚡ I possess a strong aptitude for leadership roles and have successfully completed numerous projects as part of a team <br>
+⚡ Actively took part in various Open Source Programs like **GSSOC**, **SSOC**, and **Hacktoberfest**. <br>
+⚡ See my recent work using the **MERN STACK**: A **chat app** utilizing **websockets** [Chat-Mind](https://github.com/MehraDevesh2022/chat-mind) and an **e-commerce app** [Cricket Weapon](https://github.com/MehraDevesh2022/CricketWeapon-Store).
+⚡ I've published my tech-related blog posts on **\*Hashnode**. You can explore them on my profile: [IamDEv.hashnode.dev](https://iam-dev.hashnode.dev/).<br>
+⚡ If you're in need of a skilled **Software Developer** and **Web Developer**, I'm available. **Hire Me ➡**. [Portfolio](your_portfolio_link) <br>
+
 ### ⚙️ &nbsp; Work experience :
+
 ---
+
 ⚡ Worked as a Software Engineering Intern at [Pepcoding](https://www.pepcoding.com/).<br>
 ⚡ Worked as a FullStack Devloper Intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).<br>
 ⚡ Worked as a Frontend Developer Intern at [NPSEI](https://sitp.ac.in/) <br>
 
-
 ### ⚙️ &nbsp; Tech Stack :
+
 ---
+
 <p align="center">
 
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,21 +75,24 @@
 </p><br>
 
 ### ⚙️ &nbsp; Connect with me :
+
 ---
+
 <p align="center">
 &nbsp; <a href="https://twitter.com/Iam_DEv22" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/452/twitter-squared.png" width=90 height=90/></a>
 &nbsp; <a href="https://www.instagram.com/iam_nightbot/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/iam-devesh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
-&nbsp; <a href="mehra.devesh2022@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png"/></a>
-&nbsp; <a href="https://t.me/tsCodewithDEv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/telegram-app.png"/></a>
-&nbsp; <a href="https://api.whatsapp.com/send?phone=8171280446" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
-&nbsp; <a href="https://discord.com/users/uchiha_itachi7387" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/discord.png"/></a>
+&nbsp; <a href="mailto:mehra.devesh2022@gmail.com"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" alt="Email"/></a>
+&nbsp; <a href="https://t.me/ItsCodewithDEv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/telegram-app.png" alt="Telegram"/></a>
+&nbsp; <a href="https://api.whatsapp.com/send?phone=+918171280446"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png" alt="WhatsApp"/></a>
+ &nbsp; <a href="https://discord.com/users/uchiha_itachi7387" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/discord.png"/></a>
 
 </p><br>
 
+### ⚙️ &nbsp;GitHub Analytics :
 
-### ⚙️ &nbsp;GitHub Analytics : 
 ---
+
 <p align="center">
   <a href="https://github.com/MehraDevesh2022">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MehraDevesh2022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -96,21 +104,20 @@
 </a>
 </p><br>
 
-
 ### ⚙️ &nbsp; Contribution Snake :
- ---
+
+---
+
  <p align="center">
   <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation"> 
-</p>  
-
-
+</p>
 
 ### ⚙️ &nbsp; Hacktoberfest PR Badges :
+
 ---
+
 <p align="center">
-  
+
 [![An image of @itscodewithdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itscodewithdev)](https://holopin.io/@itscodewithdev)
+
 </p><br>
-
-
----
