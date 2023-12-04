@@ -36,6 +36,7 @@
 
 ---
 
+⚡ Worked as a FullStack Developer Intern at [Indusfly](https://www.pepcoding.com/).<br>
 ⚡ Worked as a Software Engineering Intern at [Pepcoding](https://www.pepcoding.com/).<br>
 ⚡ Worked as a FullStack Devloper Intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).<br>
 ⚡ Worked as a Frontend Developer Intern at [NPSEI](https://sitp.ac.in/) <br>
