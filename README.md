@@ -30,7 +30,7 @@
 ⚡ Actively took part in various Open Source Programs like **GSSOC**, **SSOC**, and **Hacktoberfest**. <br>
 ⚡ See my recent work using the **MERN STACK**: A **chat app** utilizing **websockets** [Chat-Mind](https://github.com/MehraDevesh2022/chat-mind) and an **e-commerce app** [Cricket Weapon](https://github.com/MehraDevesh2022/CricketWeapon-Store).
 ⚡ I've published my tech-related blog posts on **\*Hashnode**. You can explore them on my profile: [IamDEv.hashnode.dev](https://iam-dev.hashnode.dev/).<br>
-⚡ If you're in need of a skilled **Software Developer** and **Web Developer**, I'm available. **Hire Me ➡**. [Portfolio](your_portfolio_link) <br>
+⚡ If you're in need of a skilled **Software Developer** and **Web Developer**, I'm available. **Hire Me ➡**. [Portfolio](https://iam-devesh.tech/) <br>
 
 ### ⚙️ &nbsp; Work experience :
 
@@ -100,8 +100,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MehraDevesh2022&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <a href="https://github.com/MehraDevesh2022">
-   <img  height="172em" src="http://github-readme-streak-stats.herokuapp.com/?user=MehraDevesh2022&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
-<img height="172em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ItsCodewithDEv&count_private=true&theme=algolia&v=2" alt="Devesh's wakatime stats">
+   <img  height="150em" src="http://github-readme-streak-stats.herokuapp.com/?user=MehraDevesh2022&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
+<img  height="145em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ItsCodewithDEv&count_private=true&theme=algolia&v=2" alt="Devesh's wakatime stats">
 </a>
 </p><br>
 
