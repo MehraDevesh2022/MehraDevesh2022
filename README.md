@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/MehraDevesh2022">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MehraDevesh2022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MehraDevesh2022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MehraDevesh2022&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <a href="https://github.com/MehraDevesh2022">
