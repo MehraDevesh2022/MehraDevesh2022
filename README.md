@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934">
-    <img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg" alt="Wakatime">
+    <img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg" alt="Wakatime"
   </a>
   
   <a href="https://github.com/MehraDevesh2022">
