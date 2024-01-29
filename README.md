@@ -30,7 +30,7 @@
 ⚡ Actively took part in various Open Source Programs like **GSSOC**, **SSOC**, and **Hacktoberfest**. <br>
 ⚡ See my recent work using the **MERN STACK**: A **chat app** utilizing **websockets** [Chat-Mind](https://github.com/MehraDevesh2022/chat-mind) and an **e-commerce app** [Cricket Weapon](https://github.com/MehraDevesh2022/CricketWeapon-Store).
 ⚡ I've published my tech-related blog posts on **\*Hashnode**. You can explore them on my profile: [IamDEv.hashnode.dev](https://iam-dev.hashnode.dev/).<br>
-⚡ If you're in need of a skilled **Software Developer** and **Web Developer**, I'm available. **Hire Me ➡**. [Portfolio](your_portfolio_link) <br>
+⚡ If you're in need of a skilled **Software Developer** and **Web Developer**, I'm available. **Hire Me ➡**. [Portfolio](https://iam-devesh.tech/) <br>
 
 ### ⚙️ &nbsp; Work experience :
 
