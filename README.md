@@ -38,7 +38,7 @@
 
 ⚡ Worked as a freelance developer [Freelance developer](https://www.linkedin.com/in/iam-devesh/).<br>
 ⚡ Worked as a FullStack Devloper at [Fourth Brother](https://fourthbrother.com/).<br>
-⚡ Worked as a Software Engineering at[Pepcoding](https://www.pepcoding.com/).<br>
+⚡ Worked as a Software Engineering at [Pepcoding](https://www.pepcoding.com/).<br>
 ⚡ Worked as a FullStack Devloper Intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).<br>
 ⚡ Worked as a Frontend Developer Intern at [NPSEI](https://sitp.ac.in/) <br>
 
