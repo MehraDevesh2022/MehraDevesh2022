@@ -19,7 +19,6 @@
   </a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/INDIA/MehraDevesh2022)
 
 ### ⚙️ &nbsp; About Me :
 
