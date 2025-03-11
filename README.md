@@ -2,7 +2,7 @@
   
 <h1 align="center">नमस्ते! (Namaste!) 🙏 </h1>
 
-<img src = "./gif/header.png"/><br>
+<img src = "./gif/header.png"/><br> 
 
 <div align = 'center'>
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
@@ -18,6 +18,8 @@
     <img src="https://komarev.com/ghpvc/?username=MehraDevesh2022" alt="Profile Visits">
   </a>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/INDIA/MehraDevesh2022)
 
 ### ⚙️ &nbsp; About Me :
 
@@ -119,8 +121,14 @@
 
 ---
 
+
 <p align="center">
 
 [![An image of @itscodewithdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itscodewithdev)](https://holopin.io/@itscodewithdev)
 
 </p><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  
+  </p><br>
